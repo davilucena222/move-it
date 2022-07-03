@@ -18,7 +18,7 @@ This project was developed with the following tecnologies:
 - [React Icons]()
 
 ## 💡 About the project 
-Recover your focus with <a href="">Move It<a> and do your best work in 25 minutes. 
+Recover your focus with <a href="https://move-2q26fpzuz-davilucena222.vercel.app/">Move It<a> and do your best work in 25 minutes. 
 Move It is an application built it for people that want be more focused on your work, reading and studying. Move it was developed based on the pomodoro methodology, added to that, I implemented a feature that after every 25 minutes cycle you will receive a notification with some tips for exercises while you pause what are ou doing, it's a way to keep you comfortable and more active after a period sit.   
 
 ## 🚀 Features
